@@ -25,8 +25,10 @@
 ##### 进阶
 
 ##### 散记
+[一次连续赋值体验](https://github.com/Unicorn-NightFury/learn-JS-with-Uni/blob/master/JavaScript/%E6%95%A3%E8%AE%B0/%E4%B8%80%E6%AC%A1%E8%BF%9E%E7%BB%AD%E8%B5%8B%E5%80%BC%E4%BD%93%E9%AA%8C.md)
 
 
+[由一个报错引起的对原型、赋值的思考](https://github.com/Unicorn-NightFury/learn-JS-with-Uni/blob/master/JavaScript/%E6%95%A3%E8%AE%B0/%E7%94%B1%E4%B8%80%E4%B8%AA%E6%8A%A5%E9%94%99%E5%BC%95%E8%B5%B7%E7%9A%84%E5%AF%B9%E5%8E%9F%E5%9E%8B%E3%80%81%E8%B5%8B%E5%80%BC%E7%9A%84%E6%80%9D%E8%80%83.md)
 
 ---
 
